@@ -1,5 +1,5 @@
 class = Dog
 end
-dog.new = "Fido"
-dog.new = "Snoopy"
+Dog.new = "Fido"
+Dog.new = "Snoopy"
 Dog.new = "Lassie"
